@@ -34,16 +34,16 @@ Create a virtual machine in Azure and then connect to it via Remote Desktop conn
 <br />
 
 <p>
-![image](https://github.com/SergioRodriguez33/osticket-prereqs/assets/99108184/f778e327-58b9-46c7-a67f-304e57a4ad2e)
+<img src="https://i.imgur.com/U8WMMAW.png" alt="2nd Image"/>
 
 </p>
 <p>
-First, we must enable IIS (Internet Information Services) on your VM. This will essentially enable the VM to act as a server and host a website. We need this in order to properly run osTicket. Right click on Start, then navigate to Run> Control Panel > Programs > Turn Windows Features on or off > Internet Information Services.
+Next, we must enable IIS (Internet Information Services) on your VM. This will essentially enable the VM to act as a server and host a website. We need this in order to properly run osTicket. Right click on Start, then navigate to Run> Control Panel > Programs > Turn Windows Features on or off > Internet Information Services.
 </p>
 <br />
 
 <p>
-![image](https://github.com/SergioRodriguez33/osticket-prereqs/assets/99108184/905fabcd-8e42-45f8-ad02-f1799b9f73ba)
+<img src="https://i.imgur.com/667oSs6.png" alt="2nd Image"/> 
 
 </p>
 <p>
